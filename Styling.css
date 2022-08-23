@@ -1,0 +1,33 @@
+.sh {
+    border: 2px solid;
+    background-color: #8d9094;
+    display: flex;
+    justify-content: center;
+}
+
+#contain {
+    padding: 20px;
+    background-color: rgb(25, 164, 158);
+}
+
+#heading {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.gradient-block {
+    background: linear-gradient(45deg, rgb(188, 181, 181) 0%, rgb(220, 194, 194) 30%, rgb(194, 238, 194) 70%, rgb(207, 207, 238) 100%);
+}
+
+.slideimg {
+    width: 100 vw;
+    height: 200px;
+}
+
+
+/* .heading-box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+} */
